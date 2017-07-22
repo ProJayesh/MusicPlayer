@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+    
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="40dp"
+    android:paddingTop="10dp"
+    android:textColor="@android:color/black"
+    android:background="#fff3f3f3"
+    />
+
+<!-- 
+
+/*  
+ *    Project name: Music player
+ *    Submitted for: Summer training program 2015-16 ,HPES
+ *    Submitted By: Avinash Kumar
+ *     				Kiit University,BBSR-751024
+ *     				email: gudavinas@gmail.com
+ *     				phone: 8260619225
+ * 
+ * 
+ */
+
+ -->
